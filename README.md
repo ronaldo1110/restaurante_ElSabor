@@ -54,4 +54,4 @@ La autenticación se realiza mediante JWT y las contraseñas se almacenan utiliz
 
 ## Autor
 Ronaldo Rosales
-Estudiante de Tecnologías de la Información
+Egresado de Ingeniería en Tecnologías de la Información
